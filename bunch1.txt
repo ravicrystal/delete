@@ -1,1 +1,5 @@
+<<<<<<< HEAD
 added new text
+=======
+asasfs
+>>>>>>> 815dd28 (added everything)
